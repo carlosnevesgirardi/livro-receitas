@@ -1,2 +1,4 @@
-#Livro de receitas :bookmark_tabs:#
+# Livro de Receitas #
 
+- Risotto
+- Strogonoff
